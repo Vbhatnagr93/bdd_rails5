@@ -1,1 +1,1 @@
-This is the repo of the BDD course with Rails 5 - Alpha blog
+This is the repo of BDD course with Rails 5 - Alpha blog
